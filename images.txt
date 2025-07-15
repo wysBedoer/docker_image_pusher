@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xinjiawei1/emby_unlockd
 amilys/embyserver:latest
+deluan/navidrome
